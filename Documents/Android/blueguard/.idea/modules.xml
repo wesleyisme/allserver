@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blueguard.iml" filepath="$PROJECT_DIR$/blueguard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartlockplus/smartlockplus.iml" filepath="$PROJECT_DIR$/smartlockplus/smartlockplus.iml" />
+    </modules>
+  </component>
+</project>

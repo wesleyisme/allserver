@@ -1,0 +1,10 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Trying to create a new connection.</find>
+      <find>BluetoothLeService.ACTION_GATT_DISCONNECTED</find>
+      <find>tz</find>
+      <find>ACTION_GATT_CONNECTED</find>
+    </findStrings>
+  </component>
+</application>
